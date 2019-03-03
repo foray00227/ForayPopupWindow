@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForayPopupWindow</string>
+    <string name="normal_popup_window">Normal Popup Window</string>
+    <string name="with_icon_popup_window">With icon popup window</string>
+</resources>
